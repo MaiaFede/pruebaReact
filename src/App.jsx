@@ -1,8 +1,10 @@
+import "bootstrap/dist/css/bootstrap,min.css";
+
 function App() {
   
 
   return (
-    <p>Prueba</p>
+    <p classNmae="text-center display-1">Prueba</p>
   )
 }
 
